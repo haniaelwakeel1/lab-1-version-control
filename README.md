@@ -27,8 +27,9 @@ git push --set-upstream origin branchName
     git switch main
 ```
 6. then merge your branch to main
-``` 
-   git mergr branchname main
-   git push
-```  
 ```
+git merge branchNmae main
+git push
+```
+ 
+
